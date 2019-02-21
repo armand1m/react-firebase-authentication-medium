@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^5.8.3",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "react-with-firebase-auth": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
