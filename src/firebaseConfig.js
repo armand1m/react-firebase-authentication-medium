@@ -1,8 +1,8 @@
 export default {
-    apiKey: "AIzaSyDgZSTSRUh7M56u0p5ULvXZOZx8MeqoC38",
-    authDomain: "react-firebase-auth-6083e.firebaseapp.com",
-    databaseURL: "https://react-firebase-auth-6083e.firebaseio.com",
-    projectId: "react-firebase-auth-6083e",
-    storageBucket: "react-firebase-auth-6083e.appspot.com",
-    messagingSenderId: "112329945248"
+    apiKey: "AIzaSyCTfTe3yNODemad_qq42Odmqw3UoRCwawA",
+    authDomain: "login-project-9de69.firebaseapp.com",
+    databaseURL: "https://login-project-9de69.firebaseio.com",
+    projectId: "login-project-9de69",
+    storageBucket: "login-project-9de69.appspot.com",
+    messagingSenderId: "1060049552256"
 };
