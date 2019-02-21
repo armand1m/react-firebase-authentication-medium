@@ -12,14 +12,9 @@ class App extends Component {
   render() {
     const {
       user,
-      error,
       signOut,
       signInWithGoogle,
     } = this.props;
-
-    if (error) {
-      console.error(error)
-    }
 
     return (
       <div className="App">
