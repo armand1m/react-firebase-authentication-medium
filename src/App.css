@@ -19,33 +19,9 @@
   color: white;
 }
 
-.user-panel {
-  height: 100%;
-  width: 100%;
-}
-
-.user-photo {
-  top:0;
-  right: 2em;
-  border-radius: 50%;
-  padding: 1em;
-  height: 100px;
-  width: 100px;  
-}
-
 .App-icon {
   height: 64px;
   width: 64px;  
-}
-
-.login-button {
- margin-left: 1em; 
- background: transparent;
- border: 0;
-}
-
-.minitext {
-  font-size: 10px;
 }
 
 .App-link {

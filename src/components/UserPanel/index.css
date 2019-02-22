@@ -1,0 +1,17 @@
+.user-panel {
+    height: 100%;
+    width: 100%;
+  }
+  
+.user-photo {
+    top:0;
+    right: 2em;
+    border-radius: 50%;
+    padding: 1em;
+    height: 100px;
+    width: 100px;  
+}
+
+.minitext {
+  font-size: 10px;
+}
